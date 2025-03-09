@@ -31,10 +31,10 @@ I'm Khsmty, a Japanese student.
 
 ## Stats
 
-[![](https://github-readme-stats.vercel.app/api/?username=Khsmty&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/?username=tsaito18&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=khsmty&margin-w=10&margin-h=10&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tsaito18&margin-w=10&margin-h=10&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khsmty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=tsaito18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=tokoshi&layout=compact)](https://wakatime.com/@tokoshi)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=tsaito18&layout=compact)](https://wakatime.com/@tsaito18)
